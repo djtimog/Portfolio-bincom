@@ -123,3 +123,16 @@ li {
   text-align: center;
   width: 100%;
 }
+.cv{
+  position: sticky;
+  bottom: 10px;
+  font-size: 20px;
+  text-align: end;
+  justify-content: end;
+}
+.myCv{
+  background-color: rgb(221, 218, 218);
+  padding: 10px;
+  border-radius: 20px;
+  margin: 10px;
+}
